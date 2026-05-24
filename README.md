@@ -83,5 +83,4 @@ Probability that the system is empty : 0.86
 
 ## Result:
 Thus the average number of materials in the system and conveyor, waiting time of the each material in the system and conveyor is found successfully.
-## RThus the average number of materials in the system and conveyor, waiting time of the each material in the system and conveyor is found successfully.esult : 
 
